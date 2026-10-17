@@ -1,9 +1,18 @@
-<a href="https://cranbero.github.io/cranbero/www/">
-  <img src="https://github.com/cranbero/.github/blob/main/details/banner.png?raw=true" alt="Cranbero Development Program" width="40%" />
-</a>
+# Cranbero license built for source projects.
+Any projects that are audio or video and using currently Cranbero license will not have Cranbero license applied
 
-[Cranbero Development Program](https://cranbero.github.io/cranbero/www/) The Cranbero License was established by the Cranbero Development Program, created by Hunter Tigner and Seok-Bong.
 
-Cranbero is a free, source-available license that anyone can use for their projects. While we do not provide active legal defense or enforcement for base projects, Cranbero provides the custom licensing framework you've been looking for. We hope to expand support in the future, but our primary goal today is to give developers a flexible license option that suits their needs.
+## Quick Links
 
-Founded by Seok-Bong and Hunter Tigner to give creators control over their work.
+* [Official Documentation](https://cranbero.github.io/cranbero/www/)
+* [License Text & Usage Guidelines](https://cranbero.github.io/cranbero/www/history.html)
+any link you see that has a misspelling of Cranbero, is not hosted on github.io, and doesn't end with www may not be an official site. Please do not go to that.
+Example
+
+## About Cranbero 
+
+is a free source-available license designed to give creators control over their project, with a license that most wanted but mostly didn't exist. This project was funded by Seok-Bong and Hunter Tigner to support software projects. 
+
+## Note
+
+While the Cranbero project does not provide active legal defense or enforcement for base projects, our goal is to offer a custom licensing option for independent projects. Support and resources will continue to expand, in the future, we may have active legal defense but in A paid-version of the license.
